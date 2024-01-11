@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maluzy
 - 👀 I’m interested in nature, camping, peaceful place and fresh air
 - 🌱 I’m currently learning programming and reactjs
-- 💞️ I’m looking to collaborate on reactjs and web development
+- 💞️ I’m looking to collaborate on reactjs and web development geek
 - 📫 How to reach me on linkedin
 - 😄 Pronouns: Female/Mom
 - ⚡ Fun fact: im introvert but im funny
